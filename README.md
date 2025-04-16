@@ -8,8 +8,7 @@ A sleek and responsive Personal Portfolio Website built using HTML, CSS, and Jav
 - Smooth Animations & Transitions🎨 
 - Interactive UI Elements 🖱️  
 - Projects Showcase 🔥  
-- Contact Form Integration 📩  
-- Optimized for Performance & SEO⚡  
+- Contact Form Integration 📩   
 
 🔗 Live Demo  
 👉 [https://yas-ar-08.netlify.app]  
